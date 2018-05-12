@@ -9,6 +9,8 @@ covers:
 - cover_type: archival
   image_path: 41928-h/images/coverpage.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41928#A-Collection-of-Rare-and-Curious-Tracts-on-Witchcraft-and-the-Second-SightWith-an-Original-Es_
 gutenberg_issued: '2013-01-27'
 gutenberg_type: Text
 identifiers:
