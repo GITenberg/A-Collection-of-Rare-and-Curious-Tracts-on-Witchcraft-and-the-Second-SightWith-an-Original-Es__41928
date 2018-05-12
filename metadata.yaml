@@ -1,0 +1,30 @@
+_repo: A-Collection-of-Rare-and-Curious-Tracts-on-Witchcraft-and-the-Second-SightWith-an-Original-Es__41928
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Webster, David, of Edinburgh
+    gutenberg_agent_id: '41275'
+    url: http://www.gutenberg.org/2009/agents/41275
+covers:
+- cover_type: archival
+  image_path: 41928-h/images/coverpage.jpg
+description: ''
+gutenberg_issued: '2013-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41928'
+  lccn: '11014658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Witchcraft) -- Scotland -- Early works to 1800'
+- !lcsh 'Trials (Witchcraft) -- Scotland -- History -- Sources'
+- !lcsh 'Witchcraft -- Scotland -- Early works to 1800'
+- !lcsh 'Witchcraft -- Scotland -- History -- Sources'
+- !lcc 'BF'
+title: 'A Collection of Rare and Curious Tracts on Witchcraft and the Second Sight
+
+  With an Original Essay on Witchcraft'
+url: http://www.gutenberg.org/ebooks/41928
